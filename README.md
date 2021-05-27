@@ -17,3 +17,4 @@ Puntos.
 10. Funcion que elimina los espacios de una frase.
 11. Calcula el total de vocales encontradas en una frase.
 12. Validar si dos palabras son iguales, ademas se determina cual palabra es mayor en longitud.
+13. Calcular la fecha y hora actual.
