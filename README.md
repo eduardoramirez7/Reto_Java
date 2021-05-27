@@ -14,3 +14,4 @@ Puntos.
 7. Verificar si un numero es mayor o igual a cero.
 8. Validar que un dia ingresado por consola corresponde a un dia laboral o no.
 9. Realizar una funcion para reemplazar letras de una frase y concatenar otra frase.
+10. Funcion que elimina los espacios de una frase.
