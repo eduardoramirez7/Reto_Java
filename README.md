@@ -20,3 +20,4 @@ Puntos.
 13. Calcular la fecha y hora actual.
 14. Ingresar un numero por consola, hacer un incremento de 2 en 2 hasta un limite de 1000.
 15. Se crea un menu de opciones, donde se valida que salga del sistema al digitar la opcion de salir.
+16. Calcular el Indice de Masa Corporal (IMC) de una persona, a partir de la informacion sumistrada por consola
