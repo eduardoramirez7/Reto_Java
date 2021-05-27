@@ -9,3 +9,4 @@ Puntos.
 2. Ingresar dos numeros por consola y Comparar cual es el mayor o si son iguales.
 3. Calcular el area de un circulo, ingresando el radio por consola.
 4. Calcula el IVA al precio de un producto y sumarlo al valor total.
+5. Verificar si es par o impar a los primeros numeros del 1 al 100.
