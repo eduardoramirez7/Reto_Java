@@ -12,3 +12,4 @@ Puntos.
 5. Verificar si es par o impar a los primeros numeros del 1 al 100 usando ciclo while.
 6. Verificar si es par o impar a los primeros numeros del 1 al 100 usando ciclo for.
 7. Verificar si un numero es mayor o igual a cero.
+8. Validar que un dia ingresado por consola corresponde a un dia laboral o no.
