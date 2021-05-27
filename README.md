@@ -18,3 +18,4 @@ Puntos.
 11. Calcula el total de vocales encontradas en una frase.
 12. Validar si dos palabras son iguales, ademas se determina cual palabra es mayor en longitud.
 13. Calcular la fecha y hora actual.
+14. Ingresar un numero por consola, hacer un incremento de 2 en 2 hasta un limite de 1000.
